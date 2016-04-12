@@ -1,5 +1,11 @@
 # FavouriteBundle
 
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). 
+THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
 Favourite resources plugin for Claroline Connect
 
 [![Build Status](https://travis-ci.org/hevinci/FavouriteBundle.svg?branch=master)](https://travis-ci.org/hevinci/FavouriteBundle)
